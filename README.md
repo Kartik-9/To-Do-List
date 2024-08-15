@@ -1,1 +1,1 @@
-# To-Do-List
+The To-Do List web application is a web-based tool built with HTTML, CSS, and JS that allows users to manage tasks in a more efficient way. Users can add, edit, and delete tasks, with the completed tasks being marked for better organization. Task data is saved locally in the browser. To run the app locally, clone the repository, and install dependencies.
